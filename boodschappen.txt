@@ -1,2 +1,4 @@
 pizza:
 -pizzadeeg
+-mozarella
+-tomatensaus
