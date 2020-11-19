@@ -2,7 +2,7 @@ pizza:
 -pizzadeeg
 -mozarella
 -tomatensaus
--kaas
+-kaass
 
 ontbijt:
 -eieren
